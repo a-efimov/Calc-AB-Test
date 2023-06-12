@@ -7,6 +7,7 @@
 - **Расчет продолжительности эксперимента** - calc_duration_ab_test;
 - **Расчет p-value Хи-квадрат** - calc_pvalue_chi_square_ab_test;
 - **Расчет p-value Т-тест** - calc_ttest_ab_test;
+- **Расчет p-value Т-тест c оценкой дисперсии дельта-методом** - calc_ttest_ab_test_delta;
 - **Расчет p-value Манна-Уитни** - calc_mannwhitneyu_ab_test.
 ## 2. Calc Bootstrap
 [Ссылка на файл](https://github.com/a-efimov/Calc-AB-Test/blob/main/Calc%20Bootstrap.ipynb).
